@@ -43,7 +43,7 @@ The extraction produces **RGB feature files per video** in the `output` folder:
 
 By changing the `streams="flow"`, you could get the **flow feature files per video**. 
 
-You must **concatenate the RGB features and the flow features** them to be used as MS-TCN input.
+You must **concatenate the RGB features and the flow features** to be used as MS-TCN input.
 
 ---
 
