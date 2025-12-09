@@ -55,7 +55,7 @@ MS-TCN expects the dataset to follow the same structure as the provided example 
 ms_tcn/data/gtea/
 ```
 
-Just organize the extracted features into the same **same structure**.
+Just organize the extracted features into the **same structure**.
 
 ---
 
